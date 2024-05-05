@@ -11,6 +11,8 @@ import { modules, students, mentors, classes } from "./hyf.js";
  *
  *  [{ name: 'John', role: 'student' }, { name: 'Mary', role: 'mentor' }]
  */
+console.log(classes.)
+
 const getPeopleOfClass = (className) => {
   // TODO complete this function
 };
@@ -34,3 +36,5 @@ const getActiveClasses = () => {
 };
 // You can uncomment out this line to try your function
 // console.log(getActiveClasses());
+
+console.log("sazxd")
